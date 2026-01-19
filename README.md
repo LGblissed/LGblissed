@@ -4,9 +4,9 @@ I'm a beginner Python developer with no rush but consistency.
 I don’t like to learn by rapidly memorising stuff — I like to understand things with clarity and keep an open mind throughout the process.  
 
 I'm starting my journey doing some courses on Coursera:  
-- Microsoft’s Python Fundamentals (first)  
-- Google’s (future)  
-- And who knows what’ll come next 🚀  
+- Programming for Everybody (Getting Started with Python) 
+- IBM and Google’s Data Analyst (future)  
+- And whatever comes next 🚀  
 
 I'm an AI enthusiast, music is my energy booster, and I love art, sports and nature.  
 
