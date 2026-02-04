@@ -12,9 +12,8 @@ I'm an AI enthusiast, music is my energy booster, and I love art, sports and nat
 
 ## Goals 🎯
 - Learn and understand Python as deep as I can.  
-- Use AI to help me dive deep even in simple concepts, so I can gain many viewpoints.  
+- Use AI to help me dive deep in concepts, so I can gain many viewpoints.  
 - Combine **functionality** with **aesthetics**.  
 - For me, it's all about connection.  
 
-✨ *so, I hope to connect with you!* ✨
 
