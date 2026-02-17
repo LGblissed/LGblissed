@@ -14,7 +14,7 @@ I learn by **studying while building**, using projects as reality checks.
 
 
 
-### <h1 align="center">Current Direction</h1>
+## Current Direction
 
  Designing and implementing **AI-powered systems**
  Learning **modern AI architecture** 
@@ -25,7 +25,7 @@ The landscape has clearly changed, and I’m trying to align with where systems 
 
 
 
-## <h1 align="center">Principles</h1>
+## Principles
 
  **Clarity and depth before speed**
  **Structure before scale**
@@ -35,14 +35,14 @@ The landscape has clearly changed, and I’m trying to align with where systems 
 
 
  
-## <h1 align="center">Interests</h1>
+## Interests
 
 AI systems · software engineering · music  
 sports · nature · art · deep focus
 
 
 
-## <h1 align="center">What you'll find</h1>
+## What you'll find
 
 -Mostly experiments 
 
