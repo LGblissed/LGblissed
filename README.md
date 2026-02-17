@@ -13,7 +13,7 @@ My current focus sits at the intersection of:
 I learn by **studying while building**, using projects as reality checks.
 
 
-## Current Direction
+## <h1 align="center">Current Direction</h1>
 
  Designing and implementing **AI-powered systems**
  Learning **modern AI architecture** 
@@ -23,7 +23,7 @@ I learn by **studying while building**, using projects as reality checks.
 The landscape has clearly changed, and I’m trying to align with where systems are heading somehow.
 
 
-## Principles I Work By
+## <h1 align="center">Principles</h1>
 
  **Clarity and depth before speed**
  **Structure before scale**
@@ -32,13 +32,13 @@ The landscape has clearly changed, and I’m trying to align with where systems 
  **Signal over noise**
 
 
-## Interests
+## <h1 align="center">Interests</h1>
 
 AI systems · software engineering · music  
 sports · nature · art · deep focus
 
 
-## What You’ll Find Here
+## <h1 align="center">What you'll find</h1>
 -Mostly experiments 
 
 
