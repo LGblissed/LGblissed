@@ -1,19 +1,47 @@
-# Hello there, I'm Lauta ⚡
+# Hi, I’m Lauta ⚡
 
-I'm a beginner Python developer with no rush but consistency.  
-I don’t like to learn by rapidly memorising stuff — I like to understand things with clarity and keep an open mind throughout the process.  
+I build and study systems with a focus on **clarity, structure, and long-term reliability**.
 
-I'm starting my journey doing some courses on Coursera:  
-- Programming for Everybody (Getting Started with Python) 
-- IBM and Google’s Data Analyst (future)  
-- And whatever comes next 🚀  
+I don’t rush learning, and I don’t memorize blindly.
+I prefer to understand *why things work*, how they fail, and how they behave over time.
 
-I'm an AI enthusiast, music is my energy booster, and I love art, sports and nature.  
+My current focus sits at the intersection of:
+- **Python & software systems**
+- **AI engineering (LLMs, RAG, agents)**
+- **Operational thinking (lifecycle, drift, monitoring)**
 
-## Goals 🎯
-- Learn and understand Python as deep as I can.  
-- Use AI to help me dive deep in concepts, so I can gain many viewpoints.  
-- Combine **functionality** with **aesthetics**.  
-- For me, it's all about connection.  
+I learn by **studying while building** — using projects as reality checks, not tutorials as endpoints.
+
+
+## Current Direction
+
+- Designing and implementing **AI-powered systems**
+- Learning **modern AI architecture** 
+- Understanding **production realities**: failure modes, monitoring, lifecycle
+- Using AI as a *thinking partner*, not a shortcut
+
+The landscape has clearly changed, and I’m trying to align with where systems are heading somehow.
+
+
+## Principles I Work By
+
+- **Clarity and depth before speed**
+- **Structure before scale**
+- **Study + application**
+- **Functionality and aesthetics are not separate**
+- **Signal over noise**
+
+
+## Interests
+
+AI systems · software engineering · music  
+sports · nature · art · deep focus
+
+
+## What You’ll Find Here
+-Mostly experiments 
+
+
+
 
 
